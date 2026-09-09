@@ -1,5 +1,6 @@
 ---
 directors_cut: https://www.gamedev.pl/play/seventh-color
+video: https://youtu.be/Az01X1C9xrE
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
 
